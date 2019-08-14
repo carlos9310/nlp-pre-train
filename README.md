@@ -6,6 +6,8 @@
 
 - [Mikolov-word2vec-training for skip-gram] Distributed Representations of Words and Phrases and their Compositionality
 
+- [doc2vec] Distributed representations of sentences and documents
+
 - ELMO
 
 - GPT
