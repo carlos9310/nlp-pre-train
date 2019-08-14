@@ -8,10 +8,12 @@
 
 - [doc2vec] Distributed representations of sentences and documents
 
-- ELMO
+- [ELMO] Deep contextualized word representations
 
-- GPT
+- [GPT] Improving Language Understandingby Generative Pre-Training
 
 - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+- [GPT2.0] Language Models are Unsupervised Multitask Learners
 
 - XLNet: Generalized Autoregressive Pretraining for Language Understanding
