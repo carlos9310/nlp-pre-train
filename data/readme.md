@@ -1,5 +1,7 @@
 the corpus for pre-training language model
 
-command
+unzip it before run
 
-- unzip text8.zip -d data
+```
+unzip text8.zip -d data
+```
