@@ -1,6 +1,9 @@
 # pre-trained-language-models
 
-- [bengio-NPLM] A Neural Probabilistic Language Model 
+- [bengio-NPLM] A Neural Probabilistic Language Model
+
+  - [code](https://github.com/carlos9310/pre-trained-language-models/blob/master/code/README.md) 
+  - [paoer](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
 - [Mikolov-word2vec-models] Efficient Estimation of Word Representations in Vector Space
 
